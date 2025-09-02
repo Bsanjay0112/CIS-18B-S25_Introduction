@@ -1,4 +1,4 @@
 # CIS-18B-S25_Introduction
-Sanjay Babu 
-Professor John O'Connor
+Sanjay Babu \n 
+Professor John O'Connor \n
 Section #37655
